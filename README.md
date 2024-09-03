@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on: Expanding my knowledge in web development while laying the groundwork for my journey into game development.<br>🤝 I’m looking to collaborate on: Projects that involve both web technologies and game development, where I can apply my growing skills in Java, Python, C++, and JavaScript.<br>💡 I’m looking for help with: Deepening my understanding of game development techniques, especially in areas like game physics and AI.<br>🌱 I’m currently learning: The basics of game design and development, with a focus on integrating what I know from web development into creating interactive experiences.<br>💬 Ask me about: My experiences in web development and how I plan to transition those skills into game development. I'm also happy to chat about coding in Java, Python, C++, and JavaScript!<br>⚡ Fun fact: While I'm currently more experienced in web development, my passion for gaming is driving me to learn game development. I'm excited about the possibilities of combining these two worlds in my future projects!
+
+🔭 Currently: Expanding web dev skills and starting my game dev journey.
+🤝 Looking to Collaborate: On projects blending web tech with game development, using Java, Python, C++, and JavaScript.
+💡 Need Help With: Deepening game dev knowledge, especially in game physics and AI.
+🌱 Learning: Game design basics, focusing on merging web dev with interactive experiences.
+💬 Ask Me About: My web dev experience and transition plans into game dev, plus coding in Java, Python, C++, and JavaScript.
+⚡ Fun Fact: Web dev pro, but my love for gaming is pushing me towards game development. Excited to combine both!
 
 
 ## 🌐 Socials:
