@@ -9,6 +9,5 @@
 
 </p>
 
-## 🌐 Socials:
-- **Discord Community:** [MBA](https://discord.gg/gTQ9vjZ8Mn)  
-- **Instagram:** [mba_2023](https://www.instagram.com/mba_2023/)
+## 🌐 Website:
+- [MBA](https://mba-x86.dev)  
