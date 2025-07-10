@@ -10,4 +10,4 @@
 </p>
 
 ## 🌐 Website:
-- [MBA](https://mba-x86.dev)  
+- [mba-x86.dev](https://mba-x86.dev)  
